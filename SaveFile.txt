@@ -1,0 +1,10 @@
+Assign Tasks
+Convert Files
+Develop Plan
+Install Hardware
+Obtain Hardware
+Program Test
+Programming
+System Test
+User Test
+User Training
