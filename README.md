@@ -4,3 +4,4 @@
 ## Features:
 - Add Task
 - Done Task
+- Delete All
