@@ -5,3 +5,5 @@
 - Add Task
 - Done Task
 - Delete All
+- Sort (ASC)
+- 
