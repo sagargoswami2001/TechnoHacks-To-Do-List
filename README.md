@@ -6,4 +6,4 @@
 - Done Task
 - Delete All
 - Sort (ASC)
-- 
+- Sort (DSC)
