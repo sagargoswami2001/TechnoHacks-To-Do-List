@@ -7,3 +7,4 @@
 - Delete All
 - Sort (ASC)
 - Sort (DSC)
+- Random Task
