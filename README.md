@@ -8,3 +8,4 @@
 - Sort (ASC)
 - Sort (DSC)
 - Random Task
+- Number of Task
