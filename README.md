@@ -9,3 +9,4 @@
 - Sort (DSC)
 - Random Task
 - Number of Task
+- Exit App
