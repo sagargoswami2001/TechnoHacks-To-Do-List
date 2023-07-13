@@ -10,3 +10,6 @@
 - Random Task
 - Number of Task
 - Exit App
+- Save To-Do List
+- Load Last To-Do List
+- Info
